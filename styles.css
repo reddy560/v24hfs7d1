@@ -8,3 +8,7 @@ p{
     text-align: justify;
     color: blue;
 }
+button{
+    color: blue;
+    border: 2px solid gray;
+}
